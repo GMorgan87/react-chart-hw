@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.track {
+    background-color: rgb(56, 56, 56);
+    color: white;
+    display: flex;
+    height: 60px;
+    border-bottom: solid black 1px;
+    margin-bottom: 10px;
+}
+
+.num {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+
+.track-details {
+    margin: 0 10px;
+    padding: 0;
+}
+
+.track-details h3 {
+    margin: 5px 0;
+}
+
+.track h1 {
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+h3 {
+    margin: 0;
+}
+
+.track img{
+    height: 60px;
+    width: 60px;
+}
+
